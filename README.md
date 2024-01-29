@@ -24,7 +24,9 @@ Họ tên | MSSV | Email | GitHub
 --- | --- | -- | --
 Nguyễn Hoàng Vĩ (Trưởng nhóm) | 21522786 | 21522786@gm.uit.edu.vn | https://github.com/HoangfVx
 Đỗ Thành Nhân  | 21522400 | 21522400@gm.uit.deu.vn | 
-Link dataset: https://universe.roboflow.com/hoangfvx/vietnamese-traffic-sign-bihit/dataset/1
+
+
+###Link dataset: https://universe.roboflow.com/hoangfvx/vietnamese-traffic-sign-bihit/dataset/1
 
 
 
