@@ -27,6 +27,7 @@ Nguyễn Hoàng Vĩ (Trưởng nhóm) | 21522786 | 21522786@gm.uit.edu.vn | http
 
 
 Link dataset: https://universe.roboflow.com/hoangfvx/vietnamese-traffic-sign-bihit/dataset/1
+Link pretrained model: https://drive.google.com/file/d/1-C7jFoggQDbIwTbDaMKGqt2ktwC6CgJr/view?usp=drive_link
 
 
 
